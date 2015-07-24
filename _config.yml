@@ -1,7 +1,7 @@
 # Site settings
 title: Jonpersson.dk
 email: jon.persson.88@gmail.com
-description: This is the website for Jon Persson | Project Manager at Danish .NET house: Eksponent ApS
+description: > This is the website for Jon Persson | Project Manager at Danish .NET house: Eksponent ApS
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jonpersson.dk" # the base hostname & protocol for your site
 twitter_username: JonPersson
