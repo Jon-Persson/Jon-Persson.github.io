@@ -4,7 +4,7 @@ email: jon.persson.88@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website for Jon Persson.
   Project Manager at Danish .NET house: Eksponent ApS
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://www.jonpersson.dk" # the subpath of your site, e.g. /blog/
 url: "http://jonpersson.dk" # the base hostname & protocol for your site
 twitter_username: JonPersson
 github_username:  Jon-Persson
