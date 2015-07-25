@@ -4,13 +4,11 @@ title:  "Markdown test fra stackedit.io"
 date:   2015-07-25 13:00:55
 categories: Markdown
 ---
-
 Det her er headeren
 ---------------------------
-## Det her er en h2'er ##
-### Er det her så en h3'er ###
-#### Hvad sker der for den her lille h4'er ####
-Bare helt normalt tekst. Hvad sker der her?
+
+Bare helt normalt teksts, som måske indeholder et link til [stackedit](https://stackedit.io)
+Men først når det går ned på en ny linje? hvorfor tager den ikke det med?
 Det her er en liste:
 
  - Listeelement 1
@@ -23,7 +21,9 @@ What what what?
  2. Og det her er det andet liste element
  3. En nummer 3 hernede
 
-Learning the *Markdown* and see if its **bold**
+ ----------
+
+Learning the *Markdown* and _see_ if its **bold**
 
     <form action="#" method="post">
         <div>
