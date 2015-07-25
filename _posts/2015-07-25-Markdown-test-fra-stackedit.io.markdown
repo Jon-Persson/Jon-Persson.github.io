@@ -7,7 +7,7 @@ categories: Markdown
 Det her er headeren
 ---------------------------
 
-Bare helt normalt teksts, som måske indeholder et link til [stackedit](https://stackedit.io)
+Bare helt normalt teksts, som måske indeholder et link til [stackedit](https://stackedit.io)--
 Men først når det går ned på en ny linje? hvorfor tager den ikke det med?
 Det her er en liste:
 
