@@ -11,5 +11,6 @@ github_username:  Jon-Persson
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: pygments #highlighter for GitHub
+# highlighter: rouge #highlighter for Windows
 github: [Repository metadata]
