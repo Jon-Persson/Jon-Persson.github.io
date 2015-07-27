@@ -3,6 +3,7 @@ layout: post
 title:  "Markdown test fra stackedit.io"
 date:   2015-07-25 13:00:55
 categories: Markdown
+permalink: short-urls-jekyll
 ---
 Det her er headeren
 ---------------------------
