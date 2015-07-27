@@ -3,7 +3,7 @@ layout: post
 title:  "Markdown test fra stackedit.io"
 date:   2015-07-25 13:00:55
 categories: Markdown
-permalink: 2015/07/25/Markdown-test-fra-stackedit.io
+permalink: /blog/:year/:month/:day/:title
 ---
 Det her er headeren
 ---------------------------
